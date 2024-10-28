@@ -13,11 +13,17 @@ To access the endpoints you have two options:
 2. Use port forwarding.
 
 ## Enter details:
+
 Go to the "details-app-helm" app endpoint and type in name and email.
-** Please note - there could be an error on the first try but your data will be saved, the endpoint can dissapear for a few seconds but will be back**
+
+** Please note - there could be an error on the first try but your data will be saved! the endpoint can dissapear for a few seconds but will be back and then you can enter the data again **
 
 ## See the data:
-Go to pgadmin endpoint and enter user: admin@example.com, password: admin
+Go to pgadmin endpoint and enter:
+
+user: admin@example.com
+
+password: admin
 
 After logging in:
 
