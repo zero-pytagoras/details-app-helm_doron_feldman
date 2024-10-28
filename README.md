@@ -2,11 +2,12 @@
 Application that can store your personal details and list all the written users on html
 
 ## Prerequistes
-Helm
-K3S
+* Helm
+* K3S
 
 To run the app:
-helm install <choose a name> ./<folder with Chart.yaml>
+
+helm install (choose a name) ./(folder with Chart.yaml)
 
 To access the endpoints you have two options:
 1. "kubectl get endpoints" and copy the addresses to the browser.
