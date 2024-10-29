@@ -1,5 +1,5 @@
 # Helm Details App
-Store your personal details and check the database
+Store your personal details into a postgres database, check the stored details in the included pgadmin application.
 
 ## Prerequistes
 * Helm
